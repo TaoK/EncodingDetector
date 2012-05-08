@@ -1,0 +1,3 @@
+[submodule "TextFileEncodingDetector"]
+	path = TextFileEncodingDetector
+	url = git@gist.github.com:945127.git
